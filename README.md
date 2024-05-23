@@ -20,7 +20,6 @@ Skills: VUE JS / JS / HTML / CSS / Twig / PHP / Laravel / Codeigniter / Slim / F
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Emon943&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Emon943/contributions?format=svg&private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Emon943)  
 
