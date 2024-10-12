@@ -4,7 +4,7 @@
 
 Experienced full-stack web developer with demonstrated history of working in CAPM Company Ltd. Skilled in PHP, Laravel, Mysql, Javascript, HTML, CSS, Bootstrap, Media Query, Database Design, Rest full API. Currently on my way to getting my certification in flutter developer.
 
-Skills: VUE JS / JS / HTML / CSS / Twig / PHP / Laravel / Codeigniter / Slim / Flutter / RESTful web API
+Skills: VUE JS / JS / HTML / CSS / Twig / PHP / Laravel /MYSQL/ Codeigniter / Slim / Flutter / RESTful web API
 
 - 🔭 I’m currently working on http://allsebabd.com/ 
 - 🌱 I’m currently learning Flutter 
